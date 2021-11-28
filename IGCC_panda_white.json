@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_white_panda",
+  "displayedName": "white panda",
+  "description": "it's not a really panda i think...",
+  "metaCategories": [ "ChoiceNode" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "cost": 1,
+  "tribes": [ "None" ],
+  "specialAbilities": [ "BrokenCoinRight" ],
+  "traits": [ "Bear", "LikesHoney" ],
+  "texture": "IGCC_white_panda.png"
+}

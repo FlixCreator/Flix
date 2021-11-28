@@ -1,0 +1,20 @@
+{
+  "name": "IGCC_ant_hill",
+  "displayedName": "ant hill",
+  "description": "the house of all ants...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "cost": 2,
+  "tribes": [ "Insect" ],
+  "abilities": [ "DrawAnt", "IceCube" ],
+  "traits": [ "Terrain", "Structure" ],
+"iceCube": {
+    "creatureWithin": "Ant"
+},
+  "appearanceBehaviour": [ "TerrainBackground" , "TerrainLayout" ],
+  "texture": "IGCC_ant_hill.png"
+
+}

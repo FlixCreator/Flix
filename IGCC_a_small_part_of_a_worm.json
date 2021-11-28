@@ -1,0 +1,13 @@
+{
+  "name": "IGCC_a_small_part_of_a_worm",
+  "displayedName": "a small part of a worm",
+  "description": "is a small part of a worm...",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "tribes": [ "None" ],
+  "abilities": [ "None" ],
+  "appearanceBehavior": [ "RareCardBackground" ],
+  "texture": "IGCC_a_small_part_of_a_worm.png"
+}

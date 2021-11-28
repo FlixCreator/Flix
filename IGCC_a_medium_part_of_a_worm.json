@@ -1,0 +1,18 @@
+{
+  "name": "IGCC_a_medium_part_of_a_worm",
+  "displayedName": "a medium part of a worm",
+  "description": "it's a medium part of a worm...",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "cost": 1,
+  "tribes": [ "None" ],
+  "abilities": [ "TailOnHit"],
+"tail": {
+		"name": "IGCC_a_small_part_of_a_worm",
+		"tailLostPortrait": "IGCC_a_medium_part_of_a_wormbreak.png"
+	},
+  "appearanceBehavior": [ "RareCardBackground" ],
+  "texture": "IGCC_a_medium_part_of_a_worm.png"
+}

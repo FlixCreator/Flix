@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_mosquito",
+  "displayedName": "mosquito",
+  "description": "This beast loves to suck blood you own opponents to heal your own wounds.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "cost": 1,
+  "tribes": [ "Insect" ],
+  "customAbilities": [
+    {
+      "name": "Leech",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "texture": "IGCC_mosquito.png"
+}

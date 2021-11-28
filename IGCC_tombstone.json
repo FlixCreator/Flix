@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_tombstone",
+  "displayedName": "tombstone",
+  "description": "The tombstone, the name engraved on it is familiar to you Luke?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Advanced",
+  "temple": "Undead",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "cost": 1,
+  "tribes": [ "None" ],
+  "abilities": [ "IceCube" ],
+  "traits": [ "Structure", "Terrain" ],
+"iceCube": {
+    "creatureWithin": "IGCC_vengeful_spirit"
+},
+  "appearanceBehaviour": [ "TerrainBackground" , "TerrainLayout" ], 
+ "texture": "IGCC_tombstone.png"
+}

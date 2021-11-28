@@ -1,0 +1,21 @@
+{
+  "name": "IGCC_zomb_ant",
+  "displayedName": "zomb-ant",
+  "description": "this ant is controlled by somethings...",
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "cost": 1,
+  "tribes": [ "Insect" ],
+  "customAbilities": [
+    {
+      "name": "Bone Picker",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "specialStatIcon": "Ants",
+  "specialAbilities": [ "Ant" ],
+  "traits": [ "Ant" ],
+  "texture": "IGCC_zomb_ant.png"
+}

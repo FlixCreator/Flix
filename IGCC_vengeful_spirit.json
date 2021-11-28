@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_vengeful_spirit",
+  "displayedName": "vengeful spirit",
+  "description": "vengeful spirit",
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+ "bonesCost": 2,
+  "tribes": [ "None" ],
+  "abilities": [ "DrawCopyOnDeath" ],
+  "specialStatIcon": "Mirror",
+  "specialAbilities": [ "Mirror" ],
+  "texture": "IGCC_vengeful_spirit.png"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "IGCC_spider",
+  "displayedName": "spider",
+  "description": "the poisonous spider. You don’t want to bother him...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "cost": 2,
+  "tribes": [ "None" ],
+    "customAbilities": [
+    {
+      "name": "Poisonous",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "traits": [ "LikesHoney" , "KillsSurvivors" ],
+      "texture": "IGCC_spider.png"
+}

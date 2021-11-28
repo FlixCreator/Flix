@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_relaxed_stoat",
+  "displayedName": "relaxed stoat",
+  "description": "don't be compelled by him sweet face beneath he's a fierce beast.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "cost": 1,
+  "tribes": [ "Canine" ],
+  "abilities": [ "Evolve" ],
+  "appearanceBehavior": [ "RareCardBackground" ],
+  "evolution": {
+    "name": "IGCC_hungry_stoat",
+    "turnsToEvolve": 2
+  },
+  "texture": "IGCC_relaxed_stoat.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "IGCC_young_turtle",
+  "displayedName": "young turtle",
+  "description": "This young turtle is very willing to fight to prove its abilities. has an impenetrable defense.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "cost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Evolve" ],
+  "customAbilities": [
+    {
+      "name": "Thick Shell",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "evolution": {
+    "name": "IGCC_old_turtle",
+    "turnsToEvolve": 3
+  },
+  "texture": "IGCC_young_turtle.png"
+}

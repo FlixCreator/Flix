@@ -1,0 +1,18 @@
+{
+  "name": "IGCC_old_turtle",
+  "displayedName": "old turtle",
+  "description": "this old turtle has lived long enough and no longer wants to fight",
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "cost": 2,
+  "tribes": [ "Reptile" ],
+  "customAbilities": [
+    {
+      "name": "Thick Shell",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "texture": "IGCC_old_turtle.png"
+}

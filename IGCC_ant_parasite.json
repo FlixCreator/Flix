@@ -1,0 +1,18 @@
+{
+  "name": "IGCC_ant_parasite",
+  "displayedName": "ant parasite",
+  "description": "this creature his very intelligent. he's takes the control of the brain of ant.",
+  "metaCategories": [ "ChoiceNode"],
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bonesCost": 3,
+  "tribes": [ "None" ],
+  "abilities": [ "Evolve" ],
+  "evolution": {
+    "name": "IGCC_zomb_ant",
+    "turnsToEvolve": 1
+  },
+  "texture": "IGCC_ant_parasite.png"
+}

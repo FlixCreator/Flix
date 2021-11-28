@@ -1,0 +1,20 @@
+{
+  "name": "IGCC_armadillo",
+  "displayedName": "armadillo",
+  "description": "this creature has a really defensive shield.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "cost": 1,
+  "tribes": [ "None" ],
+  "abilities": [ "WhackAMole" ],
+  "customAbilities": [
+    {
+      "name": "Thick Shell",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "texture": "IGCC_armadillo.png"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "IGCC_flying_squirrel",
+  "displayedName": "flying squirrel",
+  "description": "the rapid flying squirrel, it is complicated to hit it",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "cost": 1,
+  "tribes": [ "Squirrel" ],
+  "abilities": [ "Strafe" ],
+  "customAbilities": [
+    {
+      "name": "Nutritious",
+      "GUID": "cyantist.inscryption.sigiladay"
+    }
+  ],
+  "texture": "IGCC_flying_squirrel.png"
+}

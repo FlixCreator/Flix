@@ -1,0 +1,19 @@
+{
+  "name": "IGCC_a_worm",
+  "displayedName": "a worm",
+  "description": "it's a simply worm... not really simply...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "cost": 2,
+  "tribes": [ "None" ],
+  "abilities": [ "TailOnHit" ],
+"tail": {
+		"name": "IGCC_a_medium_part_of_a_worm",
+		"tailLostPortrait": "IGCC_a_wormbreak.png"
+	},
+  "appearanceBehavior": [ "RareCardBackground" ],
+  "texture": "IGCC_a_worm.png"
+}
